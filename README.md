@@ -10,14 +10,13 @@ This repository contains code and related resources of our paper ["Large Languag
 If you find our paper and resources useful, please kindly leave a star and cite our papers. Thanks!
 
 ```bibtex
-@article{shen2023llmeval,
+@inproceedings{shen2023llmeval,
   title={Large Language Models are Not Yet Human-Level Evaluators for Abstractive Summarization},
   author={Shen, Chenhui and Cheng, Liying and Nguyen, Xuan-Phi and Bing, Lidong and You, Yang},
-  journal={arXiv preprint arXiv:2305.13091},
+  booktitle={Findings of EMNLP},
   url={"https://arxiv.org/abs/2305.13091"},
   year={2023}
 }
-
 ```
 
 <!-- ****
