@@ -1,0 +1,100 @@
+{"id": "dm-test-8764fb95bfad8ee849274873a92fb8d6b400eee2", "prompt_len": 697, "total_len": 698, "resp": "B", "human_score_1": 5.0, "human_score_2": 3.0}
+{"id": "dm-test-f26d8400ae49b90d109c165d0f44b8f6ca253c08", "prompt_len": 857, "total_len": 866, "resp": "A: Summary #1 is more consistent.", "human_score_1": 4.333333333333333, "human_score_2": 5.0}
+{"id": "dm-test-207df192edc1836250b69d1bc5b9e6a38206eb78", "prompt_len": 788, "total_len": 789, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-0f0789390d67698283cc87b2e046b5c5cd77edb7", "prompt_len": 826, "total_len": 827, "resp": "B", "human_score_1": 5.0, "human_score_2": 4.666666666666667}
+{"id": "cnn-test-fbbafa743a8c2ecd2cedf65c6c61956b2db8ec5c", "prompt_len": 720, "total_len": 721, "resp": "B", "human_score_1": 5.0, "human_score_2": 4.666666666666667}
+{"id": "dm-test-f37fd6e9b6cc18a7132568e307ef3b130931e809", "prompt_len": 797, "total_len": 806, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 4.666666666666667}
+{"id": "dm-test-14c813567696f4e63a39993c09d4edb454036179", "prompt_len": 931, "total_len": 932, "resp": "B", "human_score_1": 5.0, "human_score_2": 4.333333333333333}
+{"id": "dm-test-e470f0a87d7513bf880412524332047020422c3f", "prompt_len": 887, "total_len": 888, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-2c37d44d03ce2e91310339d884d33ee5aabf9abc", "prompt_len": 871, "total_len": 872, "resp": "B", "human_score_1": 5.0, "human_score_2": 2.0}
+{"id": "dm-test-e428e25bbf8e06643154ce31b7c6fab64c81e857", "prompt_len": 540, "total_len": 541, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-0783c68a744df6afa009d16e72709f2b4d90dea1", "prompt_len": 532, "total_len": 533, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-eeef09d26cf30c2124c0399b08eedc6321fe5d20", "prompt_len": 547, "total_len": 548, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-b1c3fc03a2b74cf4c79844c1fe2fdce70a8a436e", "prompt_len": 620, "total_len": 621, "resp": "B", "human_score_1": 4.666666666666667, "human_score_2": 4.666666666666667}
+{"id": "dm-test-9afda3cde191a883d8c166ceb5765eb53205d8f4", "prompt_len": 766, "total_len": 775, "resp": "A: Summary #1 is more consistent.", "human_score_1": 1.3333333333333333, "human_score_2": 5.0}
+{"id": "dm-test-4fb64a2298e18626db776fccf834be87388827e0", "prompt_len": 985, "total_len": 986, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-03e271b4305517e02c9ead82d57327d32b99102e", "prompt_len": 764, "total_len": 765, "resp": "B", "human_score_1": 5.0, "human_score_2": 4.666666666666667}
+{"id": "dm-test-bd4684a0f5af5dd6ac88d2fb50f902bd7f10217b", "prompt_len": 521, "total_len": 522, "resp": "B", "human_score_1": 4.333333333333333, "human_score_2": 2.3333333333333335}
+{"id": "dm-test-9d0fcbd873927674d12aafce4ae7754fd591d4e2", "prompt_len": 674, "total_len": 683, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-9b1af0f993d78353ebd56a1b180e882e751527b3", "prompt_len": 816, "total_len": 817, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-d75b043ebefc3098aea84d92bb8bec0f509b1563", "prompt_len": 600, "total_len": 601, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-e2bccd4dec93c9bb7b327827dae004c2d494ec31", "prompt_len": 840, "total_len": 849, "resp": "B: Summary #2 is more consistent.", "human_score_1": 4.666666666666667, "human_score_2": 1.0}
+{"id": "dm-test-54b857a66cbd8473d6732e5da52d48612e636a37", "prompt_len": 638, "total_len": 639, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-2c6695b438980783754f7db28129ec2fbb3e6e21", "prompt_len": 780, "total_len": 781, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-2cf8c2d1d2ceb1980249f77e703f9039e63799d0", "prompt_len": 634, "total_len": 635, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-b5bc2ae78441e4ac08fb01823d5fc0f1627c3166", "prompt_len": 848, "total_len": 849, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-130ff8f2dfb6ab67861d5924b0ff5acd63c7d8ce", "prompt_len": 410, "total_len": 411, "resp": "B", "human_score_1": 4.333333333333333, "human_score_2": 4.666666666666667}
+{"id": "dm-test-4001b252a072ac149c70840b22299cc6cfab3bae", "prompt_len": 471, "total_len": 472, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-cf4ba8f94f2dd5604eb8f8a4e655c10cf0996365", "prompt_len": 553, "total_len": 554, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-8e6c8aec6808f66ed0342e128a4e146f3ecd627d", "prompt_len": 820, "total_len": 821, "resp": "B", "human_score_1": 5.0, "human_score_2": 1.6666666666666667}
+{"id": "dm-test-b5925c1a02fa9a8f6b1d5ad764c19a732deac0df", "prompt_len": 812, "total_len": 813, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-3785743303ddb8b594be7c449a37458b99e83812", "prompt_len": 799, "total_len": 800, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-6721edf88c95f480a4db2c63649dbb03736aeadf", "prompt_len": 826, "total_len": 827, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-7cba80e83b222801fed8d6f96e8c0aa381c54b28", "prompt_len": 725, "total_len": 726, "resp": "B", "human_score_1": 5.0, "human_score_2": 1.6666666666666667}
+{"id": "dm-test-97bbda7ec22a736cd174b51513c72a6372d13d35", "prompt_len": 702, "total_len": 703, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-3ba3bde4a1440134bb38ec22ba50db59986b544c", "prompt_len": 808, "total_len": 817, "resp": "A: Summary #1 is more consistent.", "human_score_1": 4.333333333333333, "human_score_2": 5.0}
+{"id": "dm-test-4e0de0ec6d5b9df174f54d03158de8f30aac861f", "prompt_len": 666, "total_len": 675, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-8bc8f134bc3ceaeec0df8f29e96e13d319717ab8", "prompt_len": 602, "total_len": 616, "resp": "C: Both Summary #1 and Summary #2 are equally consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-6f027d030f9ca86446dc893f1d10ced4c9a3561f", "prompt_len": 605, "total_len": 606, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-e43eef75de38d246db9d80216ca9f5487215a78b", "prompt_len": 519, "total_len": 520, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-81bd721b16cad47dfd8d24baca5b30b006291db2", "prompt_len": 833, "total_len": 834, "resp": "B", "human_score_1": 4.666666666666667, "human_score_2": 5.0}
+{"id": "cnn-test-a02e362c5b8f049848ce718b37b96117485461cf", "prompt_len": 560, "total_len": 561, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-dea0ed2e587495e516ac85056e21a2076a9a993c", "prompt_len": 751, "total_len": 760, "resp": "B: Summary #2 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-5be0a9584b051175d9f4842a143b76385335d96a", "prompt_len": 753, "total_len": 762, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-d89de9c2a76f2665560becfe5d761a4fc62b9926", "prompt_len": 953, "total_len": 954, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-8b59fa7715418c4bcc0d50e3caeb239129de453e", "prompt_len": 619, "total_len": 628, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-1747dcd6a007ee97954b6b10cde549bf82f6a4eb", "prompt_len": 744, "total_len": 745, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-e49792c337d3f4c13e22f710efa44cf6a4e59aba", "prompt_len": 835, "total_len": 836, "resp": "A", "human_score_1": 4.666666666666667, "human_score_2": 5.0}
+{"id": "dm-test-d296270ab4a4cf20f2d9c1aae7514687806f2b35", "prompt_len": 843, "total_len": 857, "resp": "C: Both Summary #1 and Summary #2 are equally consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-b8b6e729fff27c4eef87887e61d3448de9c063f6", "prompt_len": 717, "total_len": 718, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-9beaaf73e4517d5bf1bc284f386485d571da96cf", "prompt_len": 736, "total_len": 750, "resp": "C: Both Summary #1 and Summary #2 are equally consistent.", "human_score_1": 4.333333333333333, "human_score_2": 5.0}
+{"id": "dm-test-4a593dc4c7e0b4d09bfdc66bb315c47b54eb15df", "prompt_len": 769, "total_len": 770, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-18243373494a1722ddcd162ec67b63dd749633ab", "prompt_len": 872, "total_len": 873, "resp": "B", "human_score_1": 5.0, "human_score_2": 1.6666666666666667}
+{"id": "dm-test-998cb27197db1fd299aff3322ac041ba4bf1148f", "prompt_len": 475, "total_len": 476, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-2feca9acf532e33f1ab7442c442c8e19787d8d7b", "prompt_len": 683, "total_len": 697, "resp": "C: Both Summary #1 and Summary #2 are equally consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-8b51a10370a1219137e231192e65b9cd52238ea6", "prompt_len": 805, "total_len": 806, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-31114653cd606fd3f4b1035f98dedd71f8282cd2", "prompt_len": 685, "total_len": 694, "resp": "B: Summary #2 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-0cdd7cdb5d99c36f25f1f4fa0e962d558f7ff07b", "prompt_len": 633, "total_len": 642, "resp": "B: Summary #2 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-f5fead94ee884800e84a212cc0edc78b11c4ba9f", "prompt_len": 380, "total_len": 381, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-36352fd1c61fd0c593ee7b84cbe213aa9b444439", "prompt_len": 748, "total_len": 749, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-a3b6201aca77b5bdaa5df02d6acee2be66233237", "prompt_len": 827, "total_len": 828, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-c05bda9b387ec8ae43803170b6f59b4b82505db9", "prompt_len": 750, "total_len": 751, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-6c1341bedf92a304318545fbf1aad88651de7909", "prompt_len": 528, "total_len": 529, "resp": "B", "human_score_1": 4.666666666666667, "human_score_2": 3.0}
+{"id": "dm-test-1749a22e2b6facaa057213cb9b33261b319bbd2b", "prompt_len": 802, "total_len": 811, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-b255397ee863bd8faf9def57c0f76769153d905e", "prompt_len": 889, "total_len": 890, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-e06ff0eb7c4fa4416fda84a9a239b15480c5a9d9", "prompt_len": 675, "total_len": 676, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-d680ebcdcd59fd5ee9b602a06bcd5230c212835b", "prompt_len": 806, "total_len": 815, "resp": "B: Summary #2 is more consistent.", "human_score_1": 5.0, "human_score_2": 3.0}
+{"id": "dm-test-155754e1f2bc83f6836af78703edd4d00f19f381", "prompt_len": 716, "total_len": 717, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-23e8c1d71474d239aa9ae37b9a05031b0054b8ce", "prompt_len": 550, "total_len": 559, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-4761dc6d8bdf56b9ada97104113dd1bcf4aed3f1", "prompt_len": 654, "total_len": 655, "resp": "B", "human_score_1": 4.333333333333333, "human_score_2": 4.0}
+{"id": "dm-test-8847383b72167c3f3dd2161b5b091b580c8f4da7", "prompt_len": 865, "total_len": 879, "resp": "C: Both Summary #1 and Summary #2 are equally consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-801763443e6c73e3857039f2223798b2b58bef19", "prompt_len": 521, "total_len": 530, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-c16c9fa34ccae7e2b9e29c3988ccb74974c4b3c0", "prompt_len": 746, "total_len": 755, "resp": "A: Summary #1 is more consistent.", "human_score_1": 4.333333333333333, "human_score_2": 5.0}
+{"id": "dm-test-096e418a953af86df0d1560bec95bc7bfee2e34b", "prompt_len": 627, "total_len": 628, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-02c955067d00f38b6978b805d5a8701a787f78ac", "prompt_len": 506, "total_len": 507, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-2cfc33d01364162579f46b2764914a03a29453ce", "prompt_len": 858, "total_len": 872, "resp": "C: Both Summary #1 and Summary #2 are equally consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-808a439a5d83fc47baaea934c8779a7ebc62470d", "prompt_len": 671, "total_len": 672, "resp": "B", "human_score_1": 5.0, "human_score_2": 2.6666666666666665}
+{"id": "dm-test-9b5a04b9879fe716a2dcd66dd331f99534603c16", "prompt_len": 856, "total_len": 857, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-d3c9ce137ba24a69253508b3416630465c050ae4", "prompt_len": 741, "total_len": 742, "resp": "C", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-26e4e19d945cedcb489f28808c730658139c9415", "prompt_len": 581, "total_len": 590, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-4f3b35b540ba05f0f82d71a694ec23dde4dc3e01", "prompt_len": 654, "total_len": 655, "resp": "B", "human_score_1": 5.0, "human_score_2": 4.666666666666667}
+{"id": "dm-test-2abe0f81f5b22c8a406165717e3bd7fce6fe47c6", "prompt_len": 540, "total_len": 554, "resp": "C: Both Summary #1 and Summary #2 are equally consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-5139ccfabee55ddb83e7937f5802c0a67aee8975", "prompt_len": 594, "total_len": 603, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-051db270afc32571a08c15124330efe89d80fea8", "prompt_len": 848, "total_len": 849, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-b1f6faac3f406edca1e0cad8cce1319c83e62605", "prompt_len": 746, "total_len": 747, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-c6667409fcdea2c89ba9f0d3a72c50e3967b4b1b", "prompt_len": 677, "total_len": 678, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-bcdb32ae644040a721da880fff9c1d502048cd8b", "prompt_len": 396, "total_len": 405, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-46609841ffd23e9c22d1507edf7b176ecc4d834f", "prompt_len": 486, "total_len": 487, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-2a48112ddee712f2364f128076cb2db555a043b1", "prompt_len": 888, "total_len": 889, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-fadabe346fe95d33eee71299e6596754768f5246", "prompt_len": 816, "total_len": 817, "resp": "B", "human_score_1": 4.666666666666667, "human_score_2": 5.0}
+{"id": "dm-test-f468efac7b3c54f8c42c2c81dff108c52ebe0d7d", "prompt_len": 679, "total_len": 680, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-88c2481234e763c9bbc68d0ab1be1d2375c1349a", "prompt_len": 572, "total_len": 581, "resp": "A: Summary #1 is more consistent.", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-6372eff07fd3d6f578f90d6115e01747edccc095", "prompt_len": 732, "total_len": 733, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-e7d8b6617691ea00d4ddc5fe2b7cbd105ba9a57e", "prompt_len": 864, "total_len": 865, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "cnn-test-404f859482d47c127868964a9a39d1a7645dd2e9", "prompt_len": 795, "total_len": 796, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-d83b82a9cd504218e604616be3f3c3928e3428b8", "prompt_len": 792, "total_len": 793, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-0cd10ad50ceef529d96a255ed12ac9cd001ba9db", "prompt_len": 829, "total_len": 830, "resp": "A", "human_score_1": 5.0, "human_score_2": 2.3333333333333335}
+{"id": "dm-test-632cfdb03aacd90a34a470f6a70b47eee62ec5f0", "prompt_len": 473, "total_len": 474, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-c50d33e9749e7bb484d9b69c4f5fca35a3a50cb5", "prompt_len": 823, "total_len": 824, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-2377095dda83df778e34304b7a09813808105d3b", "prompt_len": 855, "total_len": 856, "resp": "B", "human_score_1": 5.0, "human_score_2": 5.0}
+{"id": "dm-test-e880fda4c25289f8325574246f0f8ed4ff5eb26b", "prompt_len": 890, "total_len": 891, "resp": "A", "human_score_1": 5.0, "human_score_2": 5.0}
