@@ -53,13 +53,13 @@ Under Root Dir,
 
 * ``model_output_annotations/``: our processed <a href="https://github.com/Yale-LILY/SummEval"> SummEval </a> annotations for the abstractive summarization systems.
 
-* ``eval_model_generations/``:  the outputs of LLM evaluations using RTS, MCQ or alternative prompts, under respective directories of the evaluation model name, with the evaluation method in the postfix (e.g., ``_rts.json``, ``_mcq.json``, etc.)
+* ``eval_model_generations/``:  the outputs of LLM evaluations using RTS, MCQ or alternative prompts, under respective directories of the evaluation model name (our results are stored under the captalized model names)
 
 * ``comp_data/``: our processed head-to-head comparison inputs from models in the <a href="https://github.com/Yale-LILY/SummEval"> SummEval </a> dataset.
 
 * ``comp_res/``: the output of LLM evaluations using H2H prompts.
 
-* ``summeval.json``: the same file taken from <a href="https://github.com/krystalan/chatgpt_as_nlg_evaluator/tree/main/data"> this </a> repo.
+* ``summeval.json``: the same file taken from <a href="https://github.com/krystalan/chatgpt_as_nlg_evaluator"> this </a> repo.
 
 * ``eval_with_rts_or_mcq.py``: call ChatGPT or GPT-4 to evaluate with RTS or MCQ prompts; in order to run, add your own openai api key in ``secret.py``
 
